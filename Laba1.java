@@ -1,4 +1,4 @@
-public class Lab1 {
+public class Laba1 {
     public static void main(String[] args) {
         long[] a = new long[11];
         float[] x = new float[18];
